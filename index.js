@@ -82,13 +82,41 @@ age=age+1;
 console.log(age,typeof age);*/
 
 //constants
-const PI=3.14;
+/*const PI=3.14;
 let radius;
 let circumference;
 radius=window.prompt("whats the radius?");
 radius=Number(radius);
 circumference=2*pi*radius;
-console.log(circumference);
+console.log(circumference);*/
+
+//math
+/*Math.PI
+console.log(Math.PI);
+console.log(Math.E);
+let x=81;
+let y=2;
+let z;
+z=Math.round(x);
+z=Math.floor(x);
+z=Math.ceil(x);
+z=Math.trunc(x);
+//z=Math.pow(x,y);
+//z=Math.sqrt(x);,sin,cos,tan,log,abs(eliminates -ve value if -3.21 gives 3.21),sign
+console.log(z);max and min too*/
+
+/*const min=50;
+const Max=100;
+let randomNum1=Math.floor(Math.random()*(Max-min))+min;
+console.log(randomNum1);*/
+
+//let randomNum2=Math.random
+
+
+
+
+
+
 
 
 

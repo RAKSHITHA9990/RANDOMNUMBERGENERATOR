@@ -1,4 +1,13 @@
 body{
     font-family:verdana;
     font-size:2em;
+    text-align:center;
+}
+#mybutton{
+    font-size:3em;
+    padding:5px 20px;
+}
+#mylabel{
+    font-size:3em;
+
 }
